@@ -7,4 +7,5 @@ To run the files, first obtain the file from the Kaggle link.  The three codes t
   1. Santadar_preprocess.R
   2. Santadar_model.R
   3. Santandar_submission.R
+
 Before running the file, please modify the path.  
